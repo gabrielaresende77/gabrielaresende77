@@ -1,7 +1,5 @@
 ## Bem-vindo ao meu perfil! ✨
 
-Estudante de Sistemas de Informação
-
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
